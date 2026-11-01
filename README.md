@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I flew a plane
--->
+--> 
+
+Drishti's Resume
+
+## Education
+**Northeastern University**, Khoury College of Computer Sciences
+*Candidate: Bachelor of Science in Computer Science*
+Boston, MA 
